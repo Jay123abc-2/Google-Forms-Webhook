@@ -42,6 +42,7 @@ This code will automatically send a form response to a discord channel through a
 <img width="597" height="560" alt="image" src="https://github.com/user-attachments/assets/d87ccec0-f77c-477a-96a8-4fc806ec15e3" />
 
 **It should say your email**
+
 14. Click Go to [Project Name] (unsafe)
 <img width="590" height="564" alt="image" src="https://github.com/user-attachments/assets/3346b110-142e-42a8-94c3-f8d011847f6a" />
 
