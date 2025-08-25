@@ -25,6 +25,9 @@ for (var i = 0; i < Response.length; i++) {
   if (Answer == "") {
     Answer = "N/A"
   };
+  if (Array.isArray(Answer)) {
+    Answer = Answer.join(", ")
+  }
   if (Answer.toString().length < 1000) {
     Items.push({"name": Question, "value": Answer});
     CharacterLength += Answer.toString().length;
